@@ -2,5 +2,5 @@
 if [ -f ~/binder/install.R ]; then 
   mkdir -p ~/binder/R/packages; 
   R --quiet -f ~/binder/install.R; 
-  #cp ~/binder/Rprofile.site /usr/lib/R
+  sudo cp ~/binder/Rprofile.site /usr/lib/R
 fi
