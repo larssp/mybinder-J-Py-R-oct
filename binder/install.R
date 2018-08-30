@@ -1,7 +1,7 @@
 .libPaths( c( "~/binder/R/packages", .libPaths()) )
 
 install.packages("tidyverse", lib="~/binder/R/packages")
-install.packages("rmarkdown", lib="~/binder/R/packages", lib="~/binder/R/packages")
+install.packages("rmarkdown", lib="~/binder/R/packages")
 install.packages("httr", lib="~/binder/R/packages")
 install.packages("shinydashboard", lib="~/binder/R/packages")
 install.packages("leaflet", lib="~/binder/R/packages")
