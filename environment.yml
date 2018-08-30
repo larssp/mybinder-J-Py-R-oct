@@ -1,7 +1,0 @@
-dependencies:
-  - matplotlib
-  - numpy
-  - octave_kernel
-  - pip
-  - pip:
-      - julia
