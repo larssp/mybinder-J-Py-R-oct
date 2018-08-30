@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ -f install.R ]; then R --quiet -f install.R; fi
+if [ -f install.R ]; then mkdir ~/binder/R/packages; R --quiet -f install.R; fi
