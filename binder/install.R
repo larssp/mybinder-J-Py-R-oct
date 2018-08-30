@@ -1,4 +1,4 @@
-.libPaths( c( "~/binder/R/packages", .libPaths()) )
+.libPaths( c( "/usr/local/lib/R/site-library", .libPaths()) )
 
 install.packages("tidyverse", lib="~/binder/R/packages")
 install.packages("rmarkdown", lib="~/binder/R/packages")
