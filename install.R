@@ -1,3 +1,5 @@
+.libPaths( c( "~/binder/R/packages", .libPaths()) )
+
 install.packages("tidyverse")
 install.packages("rmarkdown")
 install.packages("httr")
