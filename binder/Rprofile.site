@@ -1,3 +1,0 @@
-.First <- function(){
- .libPaths( c( "~/binder/R/packages", .libPaths()) )
-}
