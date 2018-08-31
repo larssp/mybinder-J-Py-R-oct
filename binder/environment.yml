@@ -1,6 +1,8 @@
 dependencies:
   - matplotlib
   - numpy
+  - ipywidgets
+  - jupyter_contrib_nbextensions
   - octave_kernel
   - pip
   - pip:
