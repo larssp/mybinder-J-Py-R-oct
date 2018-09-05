@@ -5,3 +5,8 @@ gnuplot
 ghostscript
 r-base
 r-recommended
+gfortran
+gcc
+g++
+build-essential
+nano
