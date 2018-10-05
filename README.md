@@ -10,16 +10,20 @@ Kernel version info:
 </details>
 <details> 
   <summary>Julia</summary>
-   <p> Julia Version 0.6.0 <br>
-Commit 9036443 (2017-06-19 13:05 UTC)  <br>
-Platform Info:  <br>
-  OS: Linux (x86_64-pc-linux-gnu)  <br>
-  CPU: Intel(R) Xeon(R) CPU @ 2.60GHz  <br>
-  WORD_SIZE: 64  <br>
-  BLAS: libopenblas (USE64BITINT DYNAMIC_ARCH NO_AFFINITY Sandybridge)  <br>
-  LAPACK: libopenblas64_  <br>
-  LIBM: libopenlibm  <br>
-  LLVM: libLLVM-3.9.1 (ORCJIT, sandybridge) </p> 
+   <p> Julia Version 1.0.0<br>
+Commit 5d4eaca0c9 (2018-08-08 20:58 UTC)<br>
+Platform Info:<br>
+  OS: Linux (x86_64-pc-linux-gnu)<br>
+  CPU: Intel(R) Xeon(R) CPU @ 2.60GHz<br>
+  WORD_SIZE: 64<br>
+  LIBM: libopenlibm<br>
+  LLVM: libLLVM-6.0.0 (ORCJIT, sandybridge)<br>
+Environment:<br>
+  JULIA_PATH = /srv/julia<br>
+  JULIA_HOME = /srv/julia/bin<br>
+  JULIA_BINDIR = /srv/julia/bin<br>
+  JULIA_PKGDIR = /srv/julia/pkg<br>
+  JULIA_VERSION = 1.0.0 </p> 
 </details>
 <details> 
   <summary>octave</summary>
