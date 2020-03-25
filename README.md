@@ -5,25 +5,25 @@
 Kernel version info:
 <details> 
   <summary>Python</summary>
-   <p> 3.6.3 |Anaconda, Inc.| (default, Nov  9 2017, 00:19:18)  <br>
-[GCC 7.2.0] </p>
+   <p> 3.7.6 | packaged by conda-forge | (default, Jan  7 2020, 22:33:48) 
+[GCC 7.3.0] </p>
 </details>
 <details> 
   <summary>Julia</summary>
-   <p> Julia Version 1.0.0<br>
-Commit 5d4eaca0c9 (2018-08-08 20:58 UTC)<br>
+   <p> Julia Version 1.3.1<br>
+Commit 2d5741174c (2019-12-30 21:36 UTC)<br>
 Platform Info:<br>
   OS: Linux (x86_64-pc-linux-gnu)<br>
-  CPU: Intel(R) Xeon(R) CPU @ 2.60GHz<br>
+  CPU: Intel(R) Xeon(R) CPU @ 2.30GHz<br>
   WORD_SIZE: 64<br>
   LIBM: libopenlibm<br>
-  LLVM: libLLVM-6.0.0 (ORCJIT, sandybridge)<br>
+  LLVM: libLLVM-6.0.1 (ORCJIT, haswell)<br>
 Environment:<br>
   JULIA_PATH = /srv/julia<br>
-  JULIA_HOME = /srv/julia/bin<br>
-  JULIA_BINDIR = /srv/julia/bin<br>
-  JULIA_PKGDIR = /srv/julia/pkg<br>
-  JULIA_VERSION = 1.0.0 </p> 
+  JULIA_DEPOT_PATH = /srv/julia/pkg<br>
+  JULIA_PROJECT = /home/jovyan<br>
+  JULIA_VERSION = 1.3.1<br>
+</p>
 </details>
 <details> 
   <summary>octave</summary>
@@ -33,7 +33,7 @@ Environment:<br>
   <summary>R</summary>
    <p> R version 3.4.4 (2018-03-15)<br>
 Platform: x86_64-pc-linux-gnu (64-bit)<br>
-Running under: Ubuntu 18.04.1 LTS<br>
+Running under: Ubuntu 18.04.4 LTS<br>
 <br>
 Matrix products: default<br>
 BLAS: /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.7.1<br>
@@ -51,11 +51,9 @@ attached base packages:<br>
 [1] stats     graphics  grDevices utils     datasets  methods   base     <br>
 <br>
 loaded via a namespace (and not attached):<br>
- [1] compiler_3.4.4       magrittr_1.5         IRdisplay_0.5.0     <br>
- [4] pbdZMQ_0.3-3         tools_3.4.4          htmltools_0.3.6     <br>
- [7] base64enc_0.1-3      crayon_1.3.4         Rcpp_0.12.18        <br>
-[10] uuid_0.1-2           stringi_1.2.4        IRkernel_0.8.12.9000<br>
-[13] jsonlite_1.5         stringr_1.3.1        digest_0.6.16       <br>
-[16] repr_0.15.0          evaluate_0.11        <br>
-  </p> 
+ [1] compiler_3.4.4  IRdisplay_0.7.0 pbdZMQ_0.3-3    tools_3.4.4    <br>
+ [5] htmltools_0.4.0 pillar_1.4.3    base64enc_0.1-3 crayon_1.3.4   <br>
+ [9] Rcpp_1.0.4      uuid_0.1-4      IRkernel_1.1    jsonlite_1.6.1 <br>
+[13] digest_0.6.25   repr_1.1.0      rlang_0.4.5     evaluate_0.14  <br>
+</p>
 </details>
