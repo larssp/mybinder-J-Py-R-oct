@@ -1,0 +1,11 @@
+[compat]
+julia = "1.4.0"
+[deps]
+IJulia
+PyCall
+Plots
+BenchmarkTools
+CSV
+DataFrames
+DifferentialEquations
+LinearAlgebra
