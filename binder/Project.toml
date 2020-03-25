@@ -1,11 +1,6 @@
 [compat]
 julia = "1.4.0"
 [deps]
-IJulia
-PyCall
-Plots
-BenchmarkTools
-CSV
-DataFrames
-DifferentialEquations
-LinearAlgebra
+IJulia = ">= 1.21.0"
+Plots  = ">= 0.29.5"
+DifferentialEquations = ">= 6.10.0"
